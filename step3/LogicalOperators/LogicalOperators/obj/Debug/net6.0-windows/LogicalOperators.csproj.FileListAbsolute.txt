@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\bin\Debug\net6.0-windows\LogicalOperators.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\bin\Debug\net6.0-windows\LogicalOperators.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\bin\Debug\net6.0-windows\LogicalOperators.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\bin\Debug\net6.0-windows\LogicalOperators.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\bin\Debug\net6.0-windows\LogicalOperators.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\LogicalOperators.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\LogicalOperators.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\LogicalOperators.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\LogicalOperators.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\LogicalOperators.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\refint\LogicalOperators.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\LogicalOperators.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\LogicalOperators.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\LogicalOperators\LogicalOperators\obj\Debug\net6.0-windows\ref\LogicalOperators.dll

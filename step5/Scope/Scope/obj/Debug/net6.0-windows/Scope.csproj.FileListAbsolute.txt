@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\bin\Debug\net6.0-windows\Scope.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\bin\Debug\net6.0-windows\Scope.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\bin\Debug\net6.0-windows\Scope.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\bin\Debug\net6.0-windows\Scope.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\bin\Debug\net6.0-windows\Scope.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\Scope.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\Scope.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\Scope.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\Scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\Scope.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\Scope.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\Scope.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\Scope.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\refint\Scope.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\Scope.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\Scope.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\Scope\Scope\obj\Debug\net6.0-windows\ref\Scope.dll

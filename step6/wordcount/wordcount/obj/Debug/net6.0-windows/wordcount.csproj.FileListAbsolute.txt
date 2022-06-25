@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\wordcount.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\wordcount.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\wordcount.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\wordcount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\wordcount.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\wordcount.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\wordcount.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\bin\Debug\net6.0-windows\wordcount.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\bin\Debug\net6.0-windows\wordcount.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\bin\Debug\net6.0-windows\wordcount.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\bin\Debug\net6.0-windows\wordcount.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\bin\Debug\net6.0-windows\wordcount.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\wordcount.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\refint\wordcount.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\wordcount.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\wordcount.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\wordcount\wordcount\obj\Debug\net6.0-windows\ref\wordcount.dll

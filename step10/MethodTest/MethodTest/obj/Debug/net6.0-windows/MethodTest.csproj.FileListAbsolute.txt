@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\MethodTest.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\MethodTest.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\MethodTest.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\MethodTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\MethodTest.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\MethodTest.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\MethodTest.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\bin\Debug\net6.0-windows\MethodTest.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\bin\Debug\net6.0-windows\MethodTest.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\bin\Debug\net6.0-windows\MethodTest.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\bin\Debug\net6.0-windows\MethodTest.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\bin\Debug\net6.0-windows\MethodTest.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\MethodTest.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\refint\MethodTest.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\MethodTest.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\MethodTest.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step10\MethodTest\MethodTest\obj\Debug\net6.0-windows\ref\MethodTest.dll

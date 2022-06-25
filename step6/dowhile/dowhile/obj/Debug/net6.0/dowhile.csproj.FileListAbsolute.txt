@@ -1,0 +1,15 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\bin\Debug\net6.0\dowhile.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\bin\Debug\net6.0\dowhile.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\bin\Debug\net6.0\dowhile.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\bin\Debug\net6.0\dowhile.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\bin\Debug\net6.0\dowhile.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\obj\Debug\net6.0\dowhile.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\obj\Debug\net6.0\dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\obj\Debug\net6.0\dowhile.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\obj\Debug\net6.0\dowhile.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\obj\Debug\net6.0\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\obj\Debug\net6.0\dowhile.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\obj\Debug\net6.0\refint\dowhile.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\obj\Debug\net6.0\dowhile.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\obj\Debug\net6.0\dowhile.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\dowhile\dowhile\obj\Debug\net6.0\ref\dowhile.dll

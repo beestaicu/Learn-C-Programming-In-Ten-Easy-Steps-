@@ -1,0 +1,11 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,11 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\bin\Debug\DataType1.exe.config
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\bin\Debug\DataType1.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\bin\Debug\DataType1.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\obj\Debug\DataType1.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\obj\Debug\DataType1.csproj.SuggestedBindingRedirects.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\obj\Debug\DataType1.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\obj\Debug\DataType1.Properties.Resources.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\obj\Debug\DataType1.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\obj\Debug\DataType1.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\obj\Debug\DataType1.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\DataType1\DataType1\obj\Debug\DataType1.pdb

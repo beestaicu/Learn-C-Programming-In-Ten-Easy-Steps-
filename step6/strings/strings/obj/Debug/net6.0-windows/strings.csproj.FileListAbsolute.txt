@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\bin\Debug\net6.0-windows\strings.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\bin\Debug\net6.0-windows\strings.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\bin\Debug\net6.0-windows\strings.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\bin\Debug\net6.0-windows\strings.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\bin\Debug\net6.0-windows\strings.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\strings.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\strings.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\strings.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\strings.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\strings.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\strings.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\strings.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\refint\strings.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\strings.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\strings.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\strings\strings\obj\Debug\net6.0-windows\ref\strings.dll

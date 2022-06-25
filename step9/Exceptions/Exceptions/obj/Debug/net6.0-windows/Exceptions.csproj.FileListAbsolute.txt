@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\bin\Debug\net6.0-windows\Exceptions.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\bin\Debug\net6.0-windows\Exceptions.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\bin\Debug\net6.0-windows\Exceptions.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\bin\Debug\net6.0-windows\Exceptions.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\bin\Debug\net6.0-windows\Exceptions.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\Exceptions.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\Exceptions.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\Exceptions.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\Exceptions.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\Exceptions.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\Exceptions.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\refint\Exceptions.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\Exceptions.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\Exceptions.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step9\Exceptions\Exceptions\obj\Debug\net6.0-windows\ref\Exceptions.dll

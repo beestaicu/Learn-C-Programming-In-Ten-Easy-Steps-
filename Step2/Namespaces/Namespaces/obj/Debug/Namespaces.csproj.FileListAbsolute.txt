@@ -1,0 +1,11 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\bin\Debug\Namespaces.exe.config
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\bin\Debug\Namespaces.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\bin\Debug\Namespaces.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\obj\Debug\Namespaces.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\obj\Debug\Namespaces.Properties.Resources.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\obj\Debug\Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\obj\Debug\Namespaces.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Namespaces\Namespaces\obj\Debug\Namespaces.pdb

@@ -1,0 +1,15 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\bin\Debug\net6.0\stringinterpolation.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\bin\Debug\net6.0\stringinterpolation.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\bin\Debug\net6.0\stringinterpolation.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\bin\Debug\net6.0\stringinterpolation.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\bin\Debug\net6.0\stringinterpolation.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\obj\Debug\net6.0\refint\stringinterpolation.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\obj\Debug\net6.0\stringinterpolation.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringinterpolation\stringinterpolation\obj\Debug\net6.0\ref\stringinterpolation.dll

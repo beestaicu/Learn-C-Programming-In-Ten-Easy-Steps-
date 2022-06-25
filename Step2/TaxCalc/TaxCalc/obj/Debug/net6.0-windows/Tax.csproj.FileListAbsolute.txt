@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\bin\Debug\net6.0-windows\Tax.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\bin\Debug\net6.0-windows\Tax.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\bin\Debug\net6.0-windows\Tax.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\bin\Debug\net6.0-windows\Tax.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\bin\Debug\net6.0-windows\Tax.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\Tax.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\Tax.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\Tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\Tax.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\Tax.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\Tax.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\Tax.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\refint\Tax.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\Tax.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\Tax.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\ref\Tax.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\Tax\txsdf\obj\Debug\net6.0-windows\Tax.Form1.resources

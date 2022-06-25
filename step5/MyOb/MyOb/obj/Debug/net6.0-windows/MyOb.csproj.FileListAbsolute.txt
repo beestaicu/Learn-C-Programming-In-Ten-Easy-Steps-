@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\bin\Debug\net6.0-windows\MyOb.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\bin\Debug\net6.0-windows\MyOb.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\bin\Debug\net6.0-windows\MyOb.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\bin\Debug\net6.0-windows\MyOb.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\bin\Debug\net6.0-windows\MyOb.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\MyOb.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\MyOb.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\MyOb.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\MyOb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\MyOb.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\MyOb.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\MyOb.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\MyOb.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\refint\MyOb.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\MyOb.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\MyOb.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\MyOb\MyOb\obj\Debug\net6.0-windows\ref\MyOb.dll

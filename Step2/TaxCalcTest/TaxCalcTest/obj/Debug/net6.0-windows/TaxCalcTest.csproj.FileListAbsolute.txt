@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\bin\Debug\net6.0-windows\TaxCalcTest.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\bin\Debug\net6.0-windows\TaxCalcTest.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\bin\Debug\net6.0-windows\TaxCalcTest.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\bin\Debug\net6.0-windows\TaxCalcTest.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\bin\Debug\net6.0-windows\TaxCalcTest.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\TaxCalcTest.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\TaxCalcTest.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\TaxCalcTest.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\TaxCalcTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\TaxCalcTest.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\TaxCalcTest.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\TaxCalcTest.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\TaxCalcTest.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\refint\TaxCalcTest.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\TaxCalcTest.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\TaxCalcTest.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step2\TaxCalcTest\TaxCalcTest\obj\Debug\net6.0-windows\ref\TaxCalcTest.dll

@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\bin\Debug\net6.0-windows\LocalFunctions.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\bin\Debug\net6.0-windows\LocalFunctions.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\bin\Debug\net6.0-windows\LocalFunctions.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\bin\Debug\net6.0-windows\LocalFunctions.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\bin\Debug\net6.0-windows\LocalFunctions.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\LocalFunctions.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\LocalFunctions.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\LocalFunctions.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\LocalFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\LocalFunctions.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\LocalFunctions.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\LocalFunctions.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\LocalFunctions.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\refint\LocalFunctions.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\LocalFunctions.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\LocalFunctions.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step4\LocalFunctions\LocalFunctions\obj\Debug\net6.0-windows\ref\LocalFunctions.dll

@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\bin\Debug\net6.0-windows\streams.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\bin\Debug\net6.0-windows\streams.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\bin\Debug\net6.0-windows\streams.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\bin\Debug\net6.0-windows\streams.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\bin\Debug\net6.0-windows\streams.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\streams.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\streams.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\streams.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\streams.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\streams.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\streams.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\streams.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\refint\streams.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\streams.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\streams.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\streams\streams\obj\Debug\net6.0-windows\ref\streams.dll

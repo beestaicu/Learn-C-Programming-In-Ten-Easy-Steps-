@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\bin\Debug\net6.0-windows\ClassesAndMore.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\bin\Debug\net6.0-windows\ClassesAndMore.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\bin\Debug\net6.0-windows\ClassesAndMore.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\bin\Debug\net6.0-windows\ClassesAndMore.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\bin\Debug\net6.0-windows\ClassesAndMore.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ClassesAndMore.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ClassesAndMore.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ClassesAndMore.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ClassesAndMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ClassesAndMore.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ClassesAndMore.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ClassesAndMore.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ClassesAndMore.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\refint\ClassesAndMore.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ClassesAndMore.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ClassesAndMore.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step8\ClassesAndMore\ClassesAndMore\obj\Debug\net6.0-windows\ref\ClassesAndMore.dll

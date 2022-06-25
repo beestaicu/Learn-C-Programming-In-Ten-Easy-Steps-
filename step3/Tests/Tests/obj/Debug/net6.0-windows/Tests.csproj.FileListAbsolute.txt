@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\bin\Debug\net6.0-windows\Tests.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\bin\Debug\net6.0-windows\Tests.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\bin\Debug\net6.0-windows\Tests.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\bin\Debug\net6.0-windows\Tests.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\bin\Debug\net6.0-windows\Tests.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\Tests.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\Tests.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\Tests.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\Tests.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\Tests.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\Tests.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\Tests.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\refint\Tests.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\Tests.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\Tests.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Tests\Tests\obj\Debug\net6.0-windows\ref\Tests.dll

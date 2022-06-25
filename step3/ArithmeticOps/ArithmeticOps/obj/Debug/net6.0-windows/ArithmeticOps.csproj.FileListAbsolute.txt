@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\bin\Debug\net6.0-windows\ArithmeticOps.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\bin\Debug\net6.0-windows\ArithmeticOps.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\bin\Debug\net6.0-windows\ArithmeticOps.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\bin\Debug\net6.0-windows\ArithmeticOps.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\bin\Debug\net6.0-windows\ArithmeticOps.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ArithmeticOps.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ArithmeticOps.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ArithmeticOps.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ArithmeticOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ArithmeticOps.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ArithmeticOps.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ArithmeticOps.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ArithmeticOps.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\refint\ArithmeticOps.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ArithmeticOps.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ArithmeticOps.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\ArithmeticOps\ArithmeticOps\obj\Debug\net6.0-windows\ref\ArithmeticOps.dll

@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\bin\Debug\net6.0-windows\GameClasses.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\bin\Debug\net6.0-windows\GameClasses.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\bin\Debug\net6.0-windows\GameClasses.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\bin\Debug\net6.0-windows\GameClasses.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\bin\Debug\net6.0-windows\GameClasses.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\GameClasses.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\GameClasses.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\GameClasses.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\GameClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\GameClasses.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\GameClasses.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\GameClasses.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\GameClasses.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\refint\GameClasses.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\GameClasses.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\GameClasses.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step5\GameClasses\GameClasses\obj\Debug\net6.0-windows\ref\GameClasses.dll

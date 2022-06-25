@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\bin\Debug\net6.0-windows\Operators.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\bin\Debug\net6.0-windows\Operators.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\bin\Debug\net6.0-windows\Operators.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\bin\Debug\net6.0-windows\Operators.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\bin\Debug\net6.0-windows\Operators.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\Operators.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\Operators.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\Operators.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\Operators.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\Operators.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\Operators.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\Operators.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\refint\Operators.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\Operators.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\Operators.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step3\Operators\Operators\obj\Debug\net6.0-windows\ref\Operators.dll

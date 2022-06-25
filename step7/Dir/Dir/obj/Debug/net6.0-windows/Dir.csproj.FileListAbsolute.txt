@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\bin\Debug\net6.0-windows\Dir.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\bin\Debug\net6.0-windows\Dir.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\bin\Debug\net6.0-windows\Dir.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\bin\Debug\net6.0-windows\Dir.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\bin\Debug\net6.0-windows\Dir.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\Dir.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\Dir.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\Dir.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\Dir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\Dir.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\Dir.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\Dir.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\Dir.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\refint\Dir.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\Dir.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\Dir.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step7\Dir\Dir\obj\Debug\net6.0-windows\ref\Dir.dll

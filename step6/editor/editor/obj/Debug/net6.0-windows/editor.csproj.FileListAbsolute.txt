@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\bin\Debug\net6.0-windows\editor.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\bin\Debug\net6.0-windows\editor.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\bin\Debug\net6.0-windows\editor.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\bin\Debug\net6.0-windows\editor.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\bin\Debug\net6.0-windows\editor.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\editor.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\editor.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\editor.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\editor.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\editor.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\editor.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\editor.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\refint\editor.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\editor.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\editor.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\editor\editor\obj\Debug\net6.0-windows\ref\editor.dll

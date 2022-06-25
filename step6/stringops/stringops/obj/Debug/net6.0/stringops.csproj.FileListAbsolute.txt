@@ -1,0 +1,15 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\obj\Debug\net6.0\stringops.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\obj\Debug\net6.0\stringops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\obj\Debug\net6.0\stringops.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\obj\Debug\net6.0\stringops.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\obj\Debug\net6.0\stringops.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\bin\Debug\net6.0\stringops.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\bin\Debug\net6.0\stringops.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\bin\Debug\net6.0\stringops.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\bin\Debug\net6.0\stringops.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\bin\Debug\net6.0\stringops.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\obj\Debug\net6.0\stringops.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\obj\Debug\net6.0\refint\stringops.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\obj\Debug\net6.0\stringops.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\obj\Debug\net6.0\stringops.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\step6\stringops\stringops\obj\Debug\net6.0\ref\stringops.dll

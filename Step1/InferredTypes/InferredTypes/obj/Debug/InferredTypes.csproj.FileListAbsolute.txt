@@ -1,0 +1,11 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\bin\Debug\InferredTypes.exe.config
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\bin\Debug\InferredTypes.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\bin\Debug\InferredTypes.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\obj\Debug\InferredTypes.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\obj\Debug\InferredTypes.csproj.SuggestedBindingRedirects.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\obj\Debug\InferredTypes.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\obj\Debug\InferredTypes.Properties.Resources.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\obj\Debug\InferredTypes.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\obj\Debug\InferredTypes.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\obj\Debug\InferredTypes.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\practical\Step1\InferredTypes\InferredTypes\obj\Debug\InferredTypes.pdb
