@@ -1,4 +1,4 @@
-# Learn-C#-Programming-In-Ten-Easy-Steps-
+# Learn-C-Sharp-Programming-In-Ten-Easy-Steps-
  Fundamentals of C#
  Object Orientation
  Static Classes and Methods
