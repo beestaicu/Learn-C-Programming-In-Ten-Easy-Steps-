@@ -1,0 +1,17 @@
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\bin\Debug\net6.0-windows\Tree.exe
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\bin\Debug\net6.0-windows\Tree.deps.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\bin\Debug\net6.0-windows\Tree.runtimeconfig.json
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\bin\Debug\net6.0-windows\Tree.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\bin\Debug\net6.0-windows\Tree.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\Tree.csproj.AssemblyReference.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\Tree.Form1.resources
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\Tree.csproj.GenerateResource.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\Tree.AssemblyInfoInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\Tree.AssemblyInfo.cs
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\Tree.csproj.CoreCompileInputs.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\Tree.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\refint\Tree.dll
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\Tree.pdb
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\Tree.genruntimeconfig.cache
+C:\Users\beest\Desktop\C# programming (in ten easy way)\section1\Tree\Tree\obj\Debug\net6.0-windows\ref\Tree.dll
